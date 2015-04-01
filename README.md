@@ -1,0 +1,2 @@
+# MailingsTest
+Prueba de mailings.
